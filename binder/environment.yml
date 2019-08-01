@@ -1,0 +1,11 @@
+name: genomeview-binderized
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - cython
+  - numpy
+  - pip
+  - pip:
+    - git+https://github.com/nspies/genomeview.git
