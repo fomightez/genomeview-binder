@@ -6,6 +6,7 @@ channels:
 dependencies:
   - cython
   - numpy
+  - jupyterlab>=1.0
   - pip
   - pip:
     - git+https://github.com/nspies/genomeview.git
