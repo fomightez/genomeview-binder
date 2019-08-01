@@ -1,7 +1,6 @@
 Attempting to binderize [this repository](https://github.com/nspies/genomeview)....
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/genomeview-binder/master?filepath=examples%2Fexamples.ipynb)
-Copy markdown link to clipboard
 
 ## genomeview - a python module for visualizing genomic data by nspies
 
@@ -14,4 +13,3 @@ See the [documentation on read-the-docs](http://genomeview.readthedocs.io/en/lat
 ----------
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/genomeview-binder/master?filepath=examples%2Fexamples.ipynb)
-Copy markdown link to clipboard
